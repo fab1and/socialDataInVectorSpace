@@ -22,7 +22,6 @@
 - **Scikit-learn, t-SNE, UMAP** – Clustering & dimensionality reduction  
 - **Matplotlib, Seaborn, Plotly** – Data visualization  
 
-## 📂 Project Structure  
 
 ## 📊 Results & Insights  
 - Social media posts are transformed into **high-dimensional vector embeddings**, allowing for **semantic similarity analysis**.  
